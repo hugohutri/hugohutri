@@ -1,4 +1,6 @@
-## Hey 👋, I'm Hugo Hutri!
+[![Header](https://raw.githubusercontent.com/hugohutri/hugohutri/assets/banner.png "Header")](https://hutri.fi/)
+
+## Hey 👋, I'm Hugo!
 
 I am a software developer from Finland.
 
