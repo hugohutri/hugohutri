@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/hugohutri/hugohutri/main/assets/header.png "Header")](https://hutri.fi/)
+[![Banner](https://raw.githubusercontent.com/hugohutri/hugohutri/main/assets/banner.png "Banner")](https://hutri.fi/)
 
 ## Hey 👋, I'm Hugo Hutri!
 
