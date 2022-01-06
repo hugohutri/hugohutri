@@ -5,7 +5,7 @@ I am a software developer from Finland.
 ### About Me
 
 💡 &nbsp; I am a software developer at Visma Consulting, working on different projects using React and React Native.\
-🌱 &nbsp; I’m currently learning machine learning using Python and I constantly try to improve my React skills.\
+🌱 &nbsp; I’m currently learning Tailwind CSS and machine learning using Python and I constantly try to improve my React skills.\
 🎓 &nbsp; I have Bachelor's degree in Software Engineering and my Master's degree should be finished in 2023\
 👾 &nbsp; In my free time, I read books and develop bots, games, and websites.\
 📄 &nbsp; Check out my [Website](https://hutri.fi)
