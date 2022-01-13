@@ -15,6 +15,8 @@ I am a software developer from Finland.
 
 ### Skills
 
+List of technologies, languages and other tools I have been using
+
 #### Languages
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
