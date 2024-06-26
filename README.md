@@ -6,10 +6,10 @@ I am a software developer from Finland.
 
 ### About Me
 
-💡 &nbsp; I am a software developer at Taito United, working on different projects using React and React Native.\
-🌱 &nbsp; I’m currently learning Tailwind CSS and machine learning using Python and I constantly try to improve my React skills.\
-🎓 &nbsp; I have Bachelor's degree in Software Engineering and my Master's degree should be finished in 2023\
-👾 &nbsp; In my free time, I read books and develop bots, games, and websites.\
+💡 &nbsp; I am a Full-Stack Developer at Taito United, working on different projects using React, React Native, JS/TS, and python \
+🌱 &nbsp; I’m interested in anti-aging, and wellbeing related technology, and maybe I am working on a secret sport app 🤫
+🎓 &nbsp; I have Masters's degree in Software Engineering (LUT University)\
+👾 &nbsp; In my free time, I balance between 🏋️, 🥦 and 🧑🏼‍💻\
 📄 &nbsp; Check out my [Website](https://hutri.fi)
 
 
