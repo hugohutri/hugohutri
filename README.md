@@ -7,7 +7,7 @@ I am a software developer from Finland.
 ### About Me
 
 💡 &nbsp; I am a Full-Stack Developer at Taito United, working on different projects using React, React Native, JS/TS, and python \
-🌱 &nbsp; I’m interested in anti-aging, and wellbeing related technology, and maybe I am working on a secret sport app 🤫
+🌱 &nbsp; I’m interested in anti-aging, and wellbeing related technology, and maybe I am working on a secret sport app 🤫 \
 🎓 &nbsp; I have Masters's degree in Software Engineering (LUT University)\
 👾 &nbsp; In my free time, I balance between 🏋️, 🥦 and 🧑🏼‍💻\
 📄 &nbsp; Check out my [Website](https://hutri.fi)
